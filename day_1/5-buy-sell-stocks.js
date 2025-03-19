@@ -5,7 +5,7 @@
 // and choosing a different day in the future to sell the stock
 // return the maximum profit if you cannot achive any profit, return 0
 
-// Input: prices = [7,1,5,3,6,4] ----> Output: 5
+// Input: prices = [7,1,5,3,6,4] -----> Output: 5
 // Input: prices = [7,6,4,3,1] ----> Output: 0
 
 function maxProfit1(prices) {

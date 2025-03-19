@@ -3,7 +3,7 @@
 // a different word or phase , using all the original letters exactly once
 
 // Input: (s = 'anagram'), (t = 'nagaram') ----> Output: true
-// Input: (s = 'rat'), (t = 'car') ----> Output: true
+// Input: (s = 'rat'), (t = 'car') -----> Output: true
 
 // 1st Approach
 const isAnagram1 = function (i, j) {

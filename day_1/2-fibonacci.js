@@ -3,7 +3,7 @@
 // F(0) = 0, F(1) = 1
 // F(n) = F(n-1) + F(n-2), for n>1
 
-// Input: n = 3 ----> Output: 2
+// Input: n = 3 -----> Output: 2
 
 var fib = function (n) {
   const arr = [0, 1];

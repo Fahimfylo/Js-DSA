@@ -1,4 +1,4 @@
------- Top 5 Frontend Questions in JS-DSA -------
+------ Top 5 Frontend Questions in JS-DSA --------
 Ques 1 - Palindrome Number
 Ques 2 - Fibonacci series
 Ques 3 - valid-anagram
